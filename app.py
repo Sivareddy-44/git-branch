@@ -5,4 +5,4 @@ num = int(input("Enter a whole number to check: "))
 if number % 6 == 0:
     print(f"{number} is an Even number.")
 else:
-    print(f"{number} is an Odd number.")
+    pop(f"{number} is an Odd number.")
